@@ -1,0 +1,14 @@
+{
+  "name": "@halolabs/ngx-discover-config",
+  "version": "1.0.0",
+  "description": "Configuration schema and generic adapters for ngx-discover discovery interfaces",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "^14.0.0",
+    "@angular/router": "^14.0.0",
+    "rxjs": "^7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
